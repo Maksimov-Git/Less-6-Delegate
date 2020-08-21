@@ -8,6 +8,8 @@ namespace Delegate_6
 {
     delegate Delegate2 Delegate1();
     delegate void Delegate2();
+
+
     class Program
     {
         public static Delegate2 Method1()

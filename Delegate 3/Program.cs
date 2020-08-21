@@ -12,10 +12,13 @@ namespace Delegate_3
         {
             return "Hello" + Name;
         }
+
         public delegate string MyDelegate(string Name);
+
         static void Main(string[] args)
         {
             MyDelegate myDelegate = new MyDelegate(Method);
+           // myDelegate("world");
             Console.WriteLine(myDelegate.Invoke(" world"));
             Console.ReadKey();
         }

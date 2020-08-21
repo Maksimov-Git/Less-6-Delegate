@@ -1,0 +1,6 @@
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate 8\bin\Debug\Delegate 8.exe.config
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate 8\bin\Debug\Delegate 8.exe
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate 8\bin\Debug\Delegate 8.pdb
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate 8\obj\Debug\Delegate 8.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate 8\obj\Debug\Delegate 8.exe
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate 8\obj\Debug\Delegate 8.pdb

@@ -1,0 +1,7 @@
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\bin\Debug\Delegate1.exe.config
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\bin\Debug\Delegate1.exe
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\bin\Debug\Delegate1.pdb
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\obj\Debug\Delegate1.csprojAssemblyReference.cache
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\obj\Debug\Delegate1.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\obj\Debug\Delegate1.exe
+F:\обучение С#\программирование в информационных системах\Less 6 Delegate\Delegate1\obj\Debug\Delegate1.pdb

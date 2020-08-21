@@ -8,9 +8,10 @@ namespace Delegate1
 {// статический класс 
     static class MyClass
     { // метод 
+        
         public static void Method()
         {
-            Console.WriteLine(" Я могу делегаты! ");
+            Console.WriteLine(" Я могу в делегаты! ");
         }
     }
 

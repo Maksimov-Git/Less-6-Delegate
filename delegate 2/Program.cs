@@ -23,9 +23,11 @@ namespace delegate_2
             MyClass My = new MyClass();
             MyDelegate myDelegate = new MyDelegate(My.Method);
             MyDelegate myDelegate1 = My.Method;//  техника предположения делегата
+            
             My.Method();
+
             myDelegate.Invoke();// вызов метода делегата 
-            myDelegate(); //упрашенный синтаксис вызова метода
+            myDelegate(); //упращённый синтаксис вызова метода
             Console.ReadKey();
 
 

@@ -11,15 +11,15 @@ namespace Delegate_4
     {
         public static void Met1()
         {
-            Console.WriteLine("method 1");
+            Console.WriteLine("I method 1");
         }
         public static void Met2()
         {
-            Console.WriteLine("method 2");
+            Console.WriteLine("I method 2");
         }
         public static void Met3()
         {
-            Console.WriteLine("method 3");
+            Console.WriteLine("I method 3");
         }
 
         public delegate void MyDelegate();

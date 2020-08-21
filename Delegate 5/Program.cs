@@ -13,7 +13,7 @@ namespace Delegate_5
     {
         static void Main(string[] args)
         {
-            //  анонимные делегаты
+            //анонимные делегаты
             MySimDelegate mySimDelegate = new MySimDelegate( delegate { Console.WriteLine("hello"); });
            // предположение делегата
             MySimDelegate mySimDelegate1 = delegate { Console.WriteLine("hello"); };
